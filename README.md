@@ -1,0 +1,1 @@
+This small project is intended to show that mocking package-private methods is failing in easymock 5.0.0.
